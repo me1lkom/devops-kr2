@@ -1,3 +1,5 @@
+# KR2: Герасимов
+
 import os
 import socket
 
